@@ -173,8 +173,13 @@ Next i
         
 End Sub
 ```
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-When running the code for 2017, the speed became much quicker to .11 as seen in the image below and 2018 became ..
+## Results: 
+When running the refactored code with the timer to measure the speed. Both 2017 and 2018 were about a second faster. This may seem like a small amount, but with large amounts of data it can make a huge difference. 
+##### The 2017 Refactored Code Timing
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+
+##### The 2018 Refactored Code timing
+![VBA_Challenge_2018](VBA_Challenge.2018.png)
 
 ## Summary: In a summary statement, address the following questions.
 ### What are the advantages or disadvantages of refactoring code?
