@@ -179,7 +179,7 @@ When running the refactored code with the timer to measure the speed. Both 2017 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 
 ##### The 2018 Refactored Code timing
-![VBA_Challenge_2018](VBA_Challenge.2018.png)
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
 ## Summary: In a summary statement, address the following questions.
 ### What are the advantages or disadvantages of refactoring code?
