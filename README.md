@@ -4,7 +4,7 @@
    The purpose of this analysis was to help Steve analyze the enitre stock market for his parents over the last few years with refactored code. The goal was to make the analysis faster as it looped through the entire data set one time.
 #### Code
     To refactor the code for the entire stock market analysis the Range needed to be marked for any year value. There for "yearvalue" was added in exchange for any year represented in the code as seen below.
-    ```
+  
     Sheets("All Stocks Analysis").Activate
         
         Range("A1").Value = "All Stocks (" + yearValue + ")"
